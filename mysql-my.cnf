@@ -1,0 +1,2 @@
+# function 报错问题
+set global log_bin_trust_function_creators=TRUE;
