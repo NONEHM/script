@@ -1,3 +1,12 @@
+/*
+    <!-- sftp连接工具 -->
+    <dependency>
+        <groupId>com.jcraft</groupId>
+        <artifactId>jsch</artifactId>
+        <version>0.1.54</version>
+    </dependency>
+ */
+
 package com.hm.sftp;
 
 
