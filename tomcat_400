@@ -271,22 +271,6 @@ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
 org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61
 java.lang.Thread.run(Thread.java:748)
 Scanned items (coverage report)
-https://100.109.80.214:8543/
-https://100.109.80.214:8543/vcc_alarm_order/
-https://100.109.80.214:8543/vcc_alarm_order/analysisResult/
-https://100.109.80.214:8543/vcc_alarm_order/analysisResult/qryAnalysisResult
-https://100.109.80.214:8543/vcc_alarm_order/area/
-https://100.109.80.214:8543/vcc_alarm_order/area/queryArea
-https://100.109.80.214:8543/vcc_alarm_order/pages/
-https://100.109.80.214:8543/vcc_alarm_order/pages/assets/
-https://100.109.80.214:8543/vcc_alarm_order/pages/assets/js/
-https://100.109.80.214:8543/vcc_alarm_order/pages/assets/js/app.js
-https://100.109.80.214:8543/vcc_alarm_order/pages/assets/js/common.js
-https://100.109.80.214:8543/vcc_alarm_order/pages/assets/js/manifest.js
-https://100.109.80.214:8543/vcc_alarm_order/pages/assets/js/styles.js
-https://100.109.80.214:8543/vcc_alarm_order/pages/assets/js/vendors.js
-https://100.109.80.214:8543/vcc_alarm_order/pages/csrf.js
-https://100.109.80.214:8543/vcc_alarm_order/pages/index.html
-https://100.109.80.214:8543/vcc_alarm_order/pages/system.js
-https://100.109.80.214:8543/vcc_alarm_order/workorder/
-https://100.109.80.214:8543/vcc_alarm_order/workorder/qryWorkorder
+
+
+s/_//_/????_[*]--/_/__>/<s>/<s>./<s>.js
